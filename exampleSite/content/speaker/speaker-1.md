@@ -3,7 +3,7 @@ title: Devini Goonetilleke
 page_header_bg: images/background/page-title-bg.jpg
 date: 2020-03-14T15:40:24.000+06:00
 designation: Founder at Puzzle Box
-image: "/images/devini-goonetilleke.jpeg"
+image: "/images/devini-goonetilleke-800.jpg"
 description: Business Transformation Specialist| Executive Leader | Bespoke Solutions
   for Transformation Challenges I Digital
 social:
