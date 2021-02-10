@@ -5,7 +5,8 @@ date: 2020-03-14T15:40:24.000+06:00
 designation: President at Data Analytics Student Association \   SHEQ Systems Manager
   NVC Precast
 image: "/images/amanda-cole.jpeg"
-description: She is president of data science club
+description: President at Data Analytics Student Association \ SHEQ Systems Manager
+  NVC Precast
 social:
 - name: linkedin
   icon: fa-linkedin
@@ -40,4 +41,4 @@ skills:
     percentage: 80%
 
 ---
-## Student at Victoria University
+## President at Data Analytics Student Association \\ SHEQ Systems Manager NVC Precast
