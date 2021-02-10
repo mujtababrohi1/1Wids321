@@ -3,7 +3,7 @@ title: Dr. Amrita Prasad
 page_header_bg: images/background/page-title-bg.jpg
 date: 
 designation: Disruptive Technology Delivery Principal
-image: "/images/dr-amrita-prasad.jpeg"
+image: "/images/dr-amrita-prasad-800.jpg"
 description: Disruptive Technology Delivery Principal
 social:
 - name: linkedin
