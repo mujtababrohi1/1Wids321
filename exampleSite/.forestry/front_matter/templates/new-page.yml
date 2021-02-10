@@ -1,0 +1,18 @@
+---
+label: New Page
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
+- name: maria
+  type: blocks
+  label: Maria
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: Details

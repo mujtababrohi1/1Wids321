@@ -1,0 +1,97 @@
+baseURL = "https://examplesite.com"
+disableLanguages = []
+disqusShortname = "WIDS Melbourne"
+googleAnalytics = ""
+paginate = "3"
+summaryLength = "10"
+theme = "1WiDswebsite"
+themesDir = "../.."
+title = "Wids Conference 2021"
+[markup.goldmark.renderer]
+unsafe = true
+[[menu.main]]
+name = "Speaker"
+url = "speaker"
+weight = 3
+[[menu.main]]
+name = "About"
+url = "about"
+weight = 2
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+[outputs]
+home = ["HTML"]
+[params]
+author = "WIDS"
+contact_form_action = "#"
+copyright = "WIDS"
+description = "This is meta description"
+logo = "/images/wids-matrix-1line.png"
+logo_footer = "/images/wids-matrix-1line.png"
+logo_width = "300px"
+[params.cookies]
+enable = false
+expire_days = 2
+[params.map]
+enable = false
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+link = "#"
+location = "Street Address, Location, <br>City, Country."
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+name = "Docklands Convention"
+phone = "[00] 000 000 000"
+[params.navigation_button]
+enable = false
+icon = "images/icon/ticket.png"
+label = "Buy Ticket"
+link = "/"
+[[params.plugins.css]]
+attributes = ""
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+attributes = ""
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+attributes = ""
+link = "plugins/font-awesome/font-awesome.min.css"
+[[params.plugins.css]]
+attributes = ""
+link = "plugins/magnific-popup/magnific-popup.min.css"
+[[params.plugins.js]]
+attributes = ""
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+attributes = ""
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+attributes = ""
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+attributes = ""
+link = "plugins/mixitup/mixitup.min.js"
+[[params.plugins.js]]
+attributes = ""
+link = "plugins/magnific-popup/magnific-popup.min.js"
+[[params.plugins.js]]
+attributes = ""
+link = "plugins/syotimer/syotimer.min.js"
+[[params.plugins.js]]
+attributes = ""
+link = "plugins/google-map/gmap.js"
+[params.preloader]
+enable = false
+preloader = ""
+[params.subscription]
+content = "Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor"
+enable = false
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+title = "Subscribe to Our Newsletter"
+[[params.social]]
+icon = "fa-facebook"
+link = "#https://www.facebook.com/groups/285698912845274"
+title = "facebook"
