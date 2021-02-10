@@ -64,15 +64,10 @@ tab:
     date: 
     tablist_items:
     - speaker: Maria Prokofieva
-      speaker_image: "/images/maria1.jpg"
+      speaker_image: "/images/webp-net-resizeimage.jpg"
       subject: Networking and Closing
       venue: ''
       time: ''
-    - speaker_image: ''
-      subject: ''
-      venue: ''
-      time: ''
-      speaker: To be confirmed
 registration:
   enable: false
   title: Register to WIDS 2021 Conference
