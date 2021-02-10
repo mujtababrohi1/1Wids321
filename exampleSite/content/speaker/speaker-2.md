@@ -1,6 +1,6 @@
 ---
 title: Michelle Mae (Roldan) Lugton
-page_header_bg: images/background/page-title-bg.jpg
+page_header_bg: "/images/michelle-mae-lugton-800.jpg"
 date: 
 designation: Data Science Lead at Coles
 image: "/images/michelle-mae-lugton.jpeg"
