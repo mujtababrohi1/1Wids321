@@ -12,7 +12,7 @@ banner:
   button:
     enable: true
     label: Join Now
-    link: "#https://www.eventbrite.com/e/wids-conference-melbourne-tickets-139354088831"
+    link: https://www.eventbrite.com/e/wids-conference-melbourne-tickets-139354088831
 about:
   enable: true
   title: About THE WIDS
