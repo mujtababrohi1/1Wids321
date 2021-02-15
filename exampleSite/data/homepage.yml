@@ -119,7 +119,7 @@ call_to_action:
     link: "#https://www.eventbrite.com/e/wids-conference-melbourne-tickets-139354088831"
 sponsors:
   enable: true
-  title: Our _Sponsors_
+  title: Contact _Us_
   content: if you are interested to know more about the conference or wish to speak
     or contribute, please contact conference organizer, Maria Prokofieva maria.prokofieva@vu.edu.au
   button:
@@ -127,20 +127,6 @@ sponsors:
     label: Become a sponsor
     link: "#"
   sponsor_group:
-  - name: Platinum Sponsors
-    sponsor_item:
-    - name: sponsor
-      logo: images/sponsors/pt-spon-two.png
-      link: "#"
-    - name: sponsor
-      logo: images/sponsors/pt-spon-three.png
-      link: "#"
-    - name: sponsor
-      logo: images/sponsors/pt-spon-four.png
-      link: "#"
-    - name: sponsor
-      logo: images/sponsors/pt-spon-three.png
-      link: "#"
   - name: Contact Us
     sponsor_item:
     - name: Maria Prokofieva
@@ -149,3 +135,11 @@ sponsors:
     - name: Amanda Cole
       logo: "/images/amanda-cole.jpeg"
       link: "#https://www.linkedin.com/in/amanda-cole-86b273205/"
+  - name: Sponsors
+    sponsor_item:
+    - name: R
+      logo: "/images/rlogo.png"
+      link: "#"
+    - name: sponsor
+      logo: images/sponsors/pt-spon-three.png
+      link: "#"
