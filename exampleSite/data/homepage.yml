@@ -142,7 +142,7 @@ sponsors:
       link: maria.prokofieva@vu.edu.au
     - name: Amanda Cole
       logo: "/images/amanda-cole.jpeg"
-      link: "#https://www.linkedin.com/in/amanda-cole-86b273205/"
+      link: https://www.linkedin.com/in/amanda-cole-86b273205/
   - name: Sponsors
     sponsor_item:
     - name: Core Dna
