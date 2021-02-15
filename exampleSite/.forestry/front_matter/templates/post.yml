@@ -21,6 +21,7 @@ fields:
   name: description
   label: description
 pages:
+- exampleSite/content/abc.html
 - exampleSite/content/blog/contact-us.md
 - exampleSite/content/contact.md
 - exampleSite/content/datathon.md
