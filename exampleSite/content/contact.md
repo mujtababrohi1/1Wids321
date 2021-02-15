@@ -1,7 +1,15 @@
 +++
+author = ""
+author_id = ""
+categories = []
 contact = ""
+date = ""
+description = ""
+image = ""
 layout = ""
 maria = []
+page_header_bg = "/images/call-to-action.jpeg"
+tags = []
 title = "contact"
 
 +++
