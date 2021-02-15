@@ -120,10 +120,10 @@ call_to_action:
 sponsors:
   enable: true
   title: Our _Sponsors_
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit sed do eiusm tempor
-    incididunt ut labore dolore
+  content: if you are interested to know more about the conference or wish to speak
+    or contribute, please contact conference organizer, Maria Prokofieva maria.prokofieva@vu.edu.au
   button:
-    enable: true
+    enable: false
     label: Become a sponsor
     link: "#"
   sponsor_group:
@@ -149,6 +149,3 @@ sponsors:
     - name: Amanda Cole
       logo: "/images/amanda-cole.jpeg"
       link: "#https://www.linkedin.com/in/amanda-cole-86b273205/"
-    - name: sponsor
-      logo: images/sponsors/gl-spon-one.png
-      link: "#"
