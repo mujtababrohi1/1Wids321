@@ -27,11 +27,22 @@ image = "images/speakers/speaker-thumb-five.jpg"
 name = "Adam Smith"
 
 +++
-## About The _WIDS_
+## ***Please note that the WiDS Worldwide conference is curated by the organizers and conference committee.  
+We do not have a call for speakers, nor do we work through speaker bureaus and representatives.**
 
-**The Women in Data Science (WiDS) initiative aims to inspire and educate data scientists worldwide, regardless of gender, and to support women in the field. WiDS started as a one-day technical conference at Stanford in November 2015. Five years later, WiDS is a global movement that includes a number of worldwide initiatives:**
+If you have additional questions or need further information,  
+​please** **email the WiDS Ambassador Dr. Maria Prokofieva.**
 
-* A **conference** with 150+ regional events worldwide in more than 60 countries, reaching 100,000 participants annually online and in person.
-* A **datathon**, encouraging participants to hone their skills using a social impact challenge.
-* A **podcast** series, featuring data science leaders from around the world talking about their work, their journeys, and lessons learned along the way
-* An **education outreach** program to encourage secondary school students to consider careers in data science, artificial intelligence (AI), and related fields.
+# WIDS Ambassador Dr. Maria Prokofieva
+
+# [https://www.linkedin.com/in/mariapr/](https://www.linkedin.com/in/mariapr/ "https://www.linkedin.com/in/mariapr/")
+
+# Amanda Cole (VU Data Analytics Student Association)
+
+# [https://www.linkedin.com/in/amanda-cole-86b273205/](https://www.linkedin.com/in/mariapr/ "https://www.linkedin.com/in/mariapr/")
+
+# 
+
+# 
+
+> **If you are interested to know more about the conference or wish to speak or contribute, please contact the conference organizer Maria Prokofieva:** [**Maria.prokofieva@vu.edu.au**](mailto:Maria.prokofieva@vu.edu.au)
