@@ -16,5 +16,10 @@ fields:
     min: 
     max: 
   description: Details
+- name: contact
+  type: text
+  config:
+    required: false
+  label: contact
 pages:
 - exampleSite/content/contact-us.md
