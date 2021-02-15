@@ -1,6 +1,5 @@
 +++
 contact = ""
-draft = true
 layout = "Contact us"
 maria = []
 title = "contact"
