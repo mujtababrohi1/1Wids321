@@ -35,3 +35,21 @@ fields:
 - type: text
   name: title
   label: title
+- name: contact_info
+  type: field_group_list
+  fields:
+  - name: contactinformation
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Contactinformation
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Contact info
+  description: Contact the organiser
