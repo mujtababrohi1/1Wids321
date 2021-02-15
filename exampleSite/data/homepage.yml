@@ -73,7 +73,8 @@ registration:
   title: Register to WIDS 2021 Conference
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit
   form_action: "#"
-  funfacts: []
+  funfacts:
+  - ''
 pricing:
   enable: false
   title: Get _Ticket_
@@ -140,11 +141,11 @@ sponsors:
     - name: sponsor
       logo: images/sponsors/pt-spon-three.png
       link: "#"
-  - name: Gold Sponsors
+  - name: Contact Us
     sponsor_item:
-    - name: sponsor
-      logo: images/sponsors/gl-spon-two.png
-      link: "#"
+    - name: Maria Prokofieva
+      logo: "/images/me2me-800.jpg"
+      link: "#maria.prokofieva@vu.edu.au"
     - name: sponsor
       logo: images/sponsors/gl-spon-three.png
       link: "#"
