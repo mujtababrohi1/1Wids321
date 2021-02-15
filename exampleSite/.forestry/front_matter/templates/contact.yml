@@ -1,4 +1,16 @@
 ---
 label: Contact
 hide_body: true
-fields: []
+fields:
+- name: names
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Names
+- name: contact_us
+  type: text
+  config:
+    required: false
+  label: Contact us
