@@ -9,5 +9,3 @@ fields:
     required: false
   label: contact
   hidden: true
-pages:
-- exampleSite/content/contact-us.md
