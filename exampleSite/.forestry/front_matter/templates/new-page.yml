@@ -1,6 +1,7 @@
 ---
 label: New Page
-hide_body: true
+hide_body: false
+display_field: layout
 fields:
 - type: text
   name: title
