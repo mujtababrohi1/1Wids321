@@ -1,7 +1,6 @@
 +++
 date = nil
 description = "WiDs Conference 2021"
-draft = true
 image = "/images/4.png"
 layout = "about"
 page_header_bg = "images/background/page-title-bg.jpg"
