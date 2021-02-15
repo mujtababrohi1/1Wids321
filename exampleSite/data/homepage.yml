@@ -137,6 +137,9 @@ sponsors:
       link: "#https://www.linkedin.com/in/amanda-cole-86b273205/"
   - name: Sponsors
     sponsor_item:
+    - name: Core Dna
+      logo: "/images/coredna.png"
+      link: ''
     - name: R
       logo: "/images/rlogo.png"
       link: "#"
