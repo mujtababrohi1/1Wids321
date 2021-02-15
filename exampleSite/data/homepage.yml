@@ -24,7 +24,7 @@ about:
   button_solid:
     enable: true
     label: JOIN NOW
-    link: "#"
+    link: https://www.eventbrite.com/e/wids-conference-melbourne-tickets-139354088831
   button_outline:
     enable: true
     label: LEARN MORE
