@@ -1,11 +1,11 @@
 +++
 contact = ""
-layout = "Contact us"
+layout = ""
 maria = []
 title = "contact"
 
 +++
-\***Please note that the WiDS Worldwide conference is curated by the organizers and conference committee.We do not have a call for speakers, nor do we work through speaker bureaus and representatives.**
+\***Please note that the WiDS Worldwide conference is curated by the organizers and conference committee. We do not have a call for speakers, nor do we work through speaker bureaus and representatives.**
 
 If you have additional questions or need further information,​please** email the WiDS Ambassador Dr. Maria Prokofieva.
 
