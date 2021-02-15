@@ -10,8 +10,6 @@ maria = []
 page_header_bg = "/images/call-to-action.jpeg"
 tags = []
 title = "Contact"
-[menu.main]
-weight = 4
 
 +++
 > #### [***Please note that the WiDS Worldwide conference is curated by the organizers and conference committee.  
