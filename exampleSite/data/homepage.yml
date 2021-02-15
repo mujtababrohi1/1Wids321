@@ -115,7 +115,7 @@ call_to_action:
   button:
     enable: true
     label: JOIN NOW
-    link: "#"
+    link: "#https://www.eventbrite.com/e/wids-conference-melbourne-tickets-139354088831"
 sponsors:
   enable: true
   title: Our _Sponsors_
