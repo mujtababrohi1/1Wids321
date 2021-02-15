@@ -15,7 +15,7 @@ url = "Datathon"
 weight = 5
 [[menu.main]]
 name = "Contact"
-url = "contact.html"
+url = "Contact.html"
 weight = 4
 [[menu.main]]
 name = "Home"
