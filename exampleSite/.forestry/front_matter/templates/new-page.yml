@@ -9,19 +9,12 @@ fields:
 - type: text
   name: layout
   label: layout
-- name: maria
-  type: blocks
-  label: Maria
-  template_types: []
-  config:
-    min: 
-    max: 
-  description: Details
 - name: contact
   type: text
   config:
     required: false
   label: contact
+  hidden: true
 pages:
 - exampleSite/content/contact-us.md
 - exampleSite/content/contact.md
