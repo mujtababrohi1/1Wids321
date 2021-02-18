@@ -20,7 +20,13 @@ fields:
 - type: text
   name: description
   label: description
+- name: contact_details
+  type: text
+  config:
+    required: false
+  label: Contact details
 pages:
 - exampleSite/content/Contact.html
+- exampleSite/content/blog/contact-us.md
 - exampleSite/content/blog/contact-us.md
 - exampleSite/content/datathon.md
