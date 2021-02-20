@@ -12,19 +12,19 @@ unsafe = true
 [[menu.main]]
 name = "Contact"
 url = "Contact.html"
-weight = ""
+weight = 4
 [[menu.main]]
-name = "Speaker"
-url = "speaker"
-weight = 3
+name = "Home"
+url = "/"
+weight = 1
 [[menu.main]]
 name = "About"
 url = "about"
 weight = 2
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+name = "Speaker"
+url = "speaker"
+weight = 3
 [outputs]
 home = ["HTML"]
 [params]
