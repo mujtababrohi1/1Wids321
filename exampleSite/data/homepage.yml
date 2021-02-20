@@ -42,24 +42,6 @@ tab:
     are invited to attend WiDS regional events, which features outstanding women doing
     outstanding work.
   tablist:
-  - name: Datathon
-    date: 
-    tablist_items:
-    - speaker: Atousa Ghahramani
-      speaker_image: "/images/atousa1.jpg"
-      subject: Demo on attempting a sample data challenge
-      venue: ''
-      time: '10:30'
-    - speaker: Maria Prokofieva
-      speaker_image: "/images/webp-net-resizeimage.jpg"
-      subject: Datathon Context
-      venue: ''
-      time: '10:15'
-    - speaker: Atousa Ghahramani
-      speaker_image: "/images/atousa1.jpg"
-      subject: Kaggle platform demo
-      venue: ''
-      time: '10:30'
   - name: Workshop Talks
     date: 
     tablist_items:
