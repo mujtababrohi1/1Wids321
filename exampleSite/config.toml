@@ -10,17 +10,21 @@ title = "Wids Conference 2021"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+name = "Contact"
+url = "Contact.html"
+weight = ""
+[[menu.main]]
+name = "Speaker"
+url = "speaker"
+weight = 3
 [[menu.main]]
 name = "About"
 url = "about"
 weight = 2
 [[menu.main]]
-name = "Speaker"
-url = "speaker"
-weight = 3
+name = "Home"
+url = "/"
+weight = 1
 [outputs]
 home = ["HTML"]
 [params]
@@ -45,7 +49,7 @@ map_marker = "images/marker.png"
 name = "Docklands Convention"
 phone = "[00] 000 000 000"
 [params.navigation_button]
-enable = false
+enable = true
 icon = "images/icon/ticket.png"
 label = "Buy Ticket"
 link = "/"
