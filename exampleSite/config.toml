@@ -11,8 +11,8 @@ title = "Wids Conference 2021"
 unsafe = true
 [[menu.main]]
 name = "Contact"
-url = "Contact.html"
-weight = "1"
+url = ""
+weight = ""
 [[menu.main]]
 name = "Speaker"
 url = "speaker"
