@@ -10,10 +10,6 @@ title = "Wids Conference 2021"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Contact"
-url = "Contact.html"
-weight = 4
-[[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
