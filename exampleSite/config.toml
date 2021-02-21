@@ -6,7 +6,7 @@ paginate = "3"
 summaryLength = "10"
 theme = "1WiDswebsite"
 themesDir = "../.."
-title = "Wids Conference 2021"
+title = "WIDS Melbourne Conference 2021"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
