@@ -36,11 +36,12 @@ speakers:
 tab:
   enable: true
   title: Agenda
-  content: WiDs 2021 Mentorship workshops is an independent event organised by Victoria
-    University to coincide with the annual Global Women in Data Science (WiDS) Conference
-    held at Stanford University and an estimated 150+ locations worldwide. All genders
-    are invited to attend WiDS regional events, which features outstanding women doing
-    outstanding work.
+  content: "10:00\nWELCOME & OPENING REMARKS\nWiDS  Melbourne  Ambassadors\n \n10:15\nDATATHON
+    CONTEXT\nSetting the context of global WiDS Datathon\nMaria Prokofieva, VU Business
+    School, RBusiness\n \n10:30\nKaggle platform demo, Demo on attempting a sample
+    data challenge on Kaggle\nMaria Prokofieva, VU Business School, RBusiness / Atousa
+    Ghahramani – PhD Student, VU Data Analytics Student Association\n \n10:45\nWORKSHOP
+    TALKS\nTO be confirmed\n \nNETWORKING AND CLOSING\n"
   tablist:
   - name: Workshop Talks
     date: 
