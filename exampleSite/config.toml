@@ -35,6 +35,7 @@ description = "This is meta description"
 logo = "/images/wids-matrix-1line.png"
 logo_footer = "/images/wids-matrix-1line.png"
 logo_width = "300px"
+social = []
 [params.cookies]
 enable = false
 expire_days = 2
@@ -95,7 +96,3 @@ enable = false
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 title = "Subscribe to Our Newsletter"
-[[params.social]]
-icon = "fa-facebook"
-link = "#https://www.facebook.com/groups/285698912845274"
-title = "facebook"
