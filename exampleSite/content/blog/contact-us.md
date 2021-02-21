@@ -2,6 +2,7 @@
 author = ""
 author_id = ""
 categories = []
+contact_details = ""
 date = ""
 description = ""
 image = ""
@@ -14,7 +15,7 @@ title = "Contact us"
 > We do not have a call for speakers, nor do we work through speaker bureaus and representatives.**
 
 If you have additional questions or need further information,  
-​please** **email the WiDS Ambassador Dr. Maria Prokofieva.**
+​please* **email the WiDS Ambassador Dr. Maria Prokofieva.**
 
 # WIDS Ambassador Dr. Maria Prokofieva
 
