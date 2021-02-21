@@ -5,7 +5,6 @@ categories = []
 contact_details = ""
 date = 2021-02-21T01:00:00Z
 description = ""
-#image = ""
 page_header_bg = ""
 tags = []
 title = "Contact us"
