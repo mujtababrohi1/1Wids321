@@ -11,7 +11,7 @@ title = "Wids Conference 2021"
 unsafe = true
 [[menu.main]]
 name = "Contact"
-url = "Contact.html"
+url = "posts/contact-us.md"
 weight = 4
 [[menu.main]]
 name = "Home"
