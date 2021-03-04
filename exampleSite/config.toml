@@ -11,7 +11,7 @@ title = "WIDS Melbourne Conference 2021"
 unsafe = true
 [[menu.main]]
 name = "Agenda"
-url = "agenda.md"
+url = "Agenda-1.md"
 weight = ""
 [[menu.main]]
 name = "Contact"
