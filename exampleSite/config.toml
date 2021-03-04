@@ -10,6 +10,10 @@ title = "WIDS Melbourne Conference 2021"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
+name = "Agenda"
+url = "blog/agenda.md"
+weight = ""
+[[menu.main]]
 name = "Contact"
 url = "blog/contact-us"
 weight = 4
