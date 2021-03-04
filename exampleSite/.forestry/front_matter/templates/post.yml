@@ -27,6 +27,7 @@ fields:
   label: Contact details
 pages:
 - exampleSite/content/Contact.html
+- exampleSite/content/blog/Agenda-1.md
 - exampleSite/content/blog/Agenda.md
 - exampleSite/content/blog/contact-us.md
 - exampleSite/content/blog/contact-us.md
