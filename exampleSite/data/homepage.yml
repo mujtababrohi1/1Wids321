@@ -43,14 +43,9 @@ tab:
     Ghahramani – PhD Student, VU Data Analytics Student Association\n \n10:45\nWORKSHOP
     TALKS\nTO be confirmed\n \nNETWORKING AND CLOSING\n"
   tablist:
-  - name: Workshop Talks
-    date: 
-    tablist_items:
-    - speaker: Maria Prokofieva
-      speaker_image: "/images/webp-net-resizeimage.jpg"
-      subject: Networking and Closing
-      venue: ''
-      time: ''
+  - name: ''
+    date: ''
+    tablist_items: ''
 registration:
   enable: false
   title: Register to WIDS 2021 Conference
