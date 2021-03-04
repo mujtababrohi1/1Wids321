@@ -12,7 +12,7 @@ unsafe = true
 [[menu.main]]
 name = "Agenda"
 url = "blog/Agenda-1.md"
-weight = ""
+weight = "5"
 [[menu.main]]
 name = "Contact"
 url = "blog/contact-us"
