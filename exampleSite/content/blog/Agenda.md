@@ -1,11 +1,10 @@
 +++
-author = ""
+author = "Mujtaba"
 author_id = ""
 categories = []
 contact_details = ""
 date = ""
 description = ""
-draft = true
 tags = []
 
 +++
