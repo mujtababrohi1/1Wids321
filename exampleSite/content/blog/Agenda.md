@@ -3,8 +3,8 @@ author = "Mujtaba Brohi"
 author_id = ""
 categories = []
 contact_details = ""
-date = ""
-description = ""
+date = 2021-03-06T10:12:00Z
+description = "Agenda of event"
 tags = []
 
 +++
