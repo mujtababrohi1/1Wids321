@@ -95,7 +95,7 @@ pricing:
     - Certificate
     - Easy Access
 call_to_action:
-  enable: true
+  enable: false
   title: Register Yourself  _Now!_
   image: images/speakers/speaker-ticket.png
   content: Team up with the most amazing women in world of data science.
