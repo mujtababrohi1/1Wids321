@@ -26,7 +26,6 @@ fields:
     required: false
   label: Contact details
 pages:
-- exampleSite/content/Agenda.md
 - exampleSite/content/Contact.html
 - exampleSite/content/blog/contact-us.md
 - exampleSite/content/blog/contact-us.md
