@@ -10,10 +10,6 @@ title = "WIDS Melbourne Conference 2021"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Agenda"
-url = "blog/agenda"
-weight = 5
-[[menu.main]]
 name = "Contact"
 url = "blog/contact-us"
 weight = 4
@@ -36,8 +32,8 @@ author = "WIDS"
 contact_form_action = "#"
 copyright = "WIDS"
 description = "Women in Data science conference 2021"
-logo = "/images/wids-matrix-1line.png"
-logo_footer = "/images/wids-matrix-1line.png"
+logo = "/images/wids-matrix-1line-1.png"
+logo_footer = "/images/wids-matrix-1line-1.png"
 logo_width = "300px"
 social = []
 [params.cookies]
