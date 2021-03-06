@@ -1,5 +1,5 @@
 +++
-author = ""
+author = "Mujtaba Brohi"
 author_id = ""
 categories = []
 contact_details = ""
@@ -10,4 +10,4 @@ tags = []
 +++
 Agenda
 
-![](/images/agenda-melbourne2021.jpg)
+![](/images/screen-shot-2021-03-06-at-8-03-37-pm.png)
