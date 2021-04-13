@@ -22,7 +22,7 @@ name = "Home"
 url = "/"
 weight = 1
 [[menu.main]]
-name = "About"
+name = "About WiDS"
 url = "about"
 weight = 2
 [[menu.main]]
