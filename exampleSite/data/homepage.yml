@@ -47,7 +47,7 @@ tab:
     date: ''
     tablist_items: ''
 registration:
-  enable: true
+  enable: false
   title: Register to WIDS 2021 Conference
   content: WiDS (Women in Data Science) is conducting a conference to foster productive
     talks and ideas so that we all together can make ourselves grow in the field of
