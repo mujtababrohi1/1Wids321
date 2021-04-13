@@ -34,7 +34,7 @@ speakers:
   title: Who _Speaking?_
   content: Women leaders in Data science
 tab:
-  enable: true
+  enable: false
   title: Agenda
   content: "10:00\nWELCOME & OPENING REMARKS\nWiDS  Melbourne  Ambassadors\n \n10:15\nDATATHON
     CONTEXT\nSetting the context of global WiDS Datathon\nMaria Prokofieva, VU Business
