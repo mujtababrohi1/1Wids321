@@ -14,10 +14,6 @@ name = "Agenda"
 url = "blog/agenda"
 weight = ""
 [[menu.main]]
-name = "Contact"
-url = "blog/contact-us"
-weight = 4
-[[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
