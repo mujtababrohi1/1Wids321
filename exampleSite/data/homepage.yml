@@ -16,7 +16,7 @@ banner:
 about:
   enable: true
   title: About THE WIDS
-  image: ''
+  image: "/images/ff.PNG"
   content: WiDS Melbourne is an independent event that is organized by the Local WiDS
     Ambassador (Maria Prokofieva) to coincide with the annual Global Women in Data
     Science (WiDS) Conference held at Stanford University and an estimated 150+ locations
