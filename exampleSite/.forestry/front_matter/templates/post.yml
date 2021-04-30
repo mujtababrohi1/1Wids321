@@ -2,29 +2,9 @@
 label: Post
 hide_body: false
 fields:
-- type: datetime
-  name: date
-  label: date
-- type: text
-  name: author
-  label: author
-- type: text
-  name: author_id
-  label: author_id
-- type: list
-  name: tags
-  label: tags
-- type: list
-  name: categories
-  label: categories
 - type: text
   name: description
   label: description
-- name: contact_details
-  type: text
-  config:
-    required: false
-  label: Contact details
 pages:
 - exampleSite/content/Contact.html
 - exampleSite/content/blog/Agenda.md
