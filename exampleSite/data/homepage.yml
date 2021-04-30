@@ -28,7 +28,7 @@ about:
   button_outline:
     enable: true
     label: About WiDS Global
-    link: about
+    link: https://www.widsconference.org/
 speakers:
   enable: true
   title: Who _Speaking?_
