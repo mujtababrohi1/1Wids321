@@ -107,7 +107,7 @@ call_to_action:
     link: https://www.eventbrite.com/e/wids-conference-melbourne-tickets-149656196713?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing
 sponsors:
   enable: true
-  title: Sponso_rs_
+  title: ''
   content: ''
   button:
     enable: false
