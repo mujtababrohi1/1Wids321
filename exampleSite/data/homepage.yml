@@ -27,7 +27,7 @@ about:
     link: https://www.eventbrite.com/e/wids-conference-melbourne-tickets-139354088831
   button_outline:
     enable: true
-    label: LEARN MORE
+    label: About WiDS Global
     link: about
 speakers:
   enable: true
