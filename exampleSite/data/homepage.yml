@@ -7,7 +7,7 @@ banner:
   timer:
     enable: true
     year: "2021"
-    month: May
+    month: "5"
     day: "6"
   button:
     enable: true
