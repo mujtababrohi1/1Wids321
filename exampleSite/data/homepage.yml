@@ -107,22 +107,13 @@ call_to_action:
     link: https://www.eventbrite.com/e/wids-conference-melbourne-tickets-149656196713?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing
 sponsors:
   enable: true
-  title: Contact _Us_
-  content: "if you are interested to know more about the conference or wish to speak
-    or contribute, please contact the conference organizer, \n\nMaria Prokofieva maria.prokofieva@vu.edu.au"
+  title: Sponso_rs_
+  content: ''
   button:
     enable: false
     label: Become a sponsor
     link: "#"
   sponsor_group:
-  - name: Contact Us
-    sponsor_item:
-    - name: Maria Prokofieva
-      logo: "/images/me2me-800.jpg"
-      link: maria.prokofieva@vu.edu.au
-    - name: Amanda Cole
-      logo: "/images/amanda-cole.jpeg"
-      link: https://www.linkedin.com/in/amanda-cole-86b273205/
   - name: Sponsors
     sponsor_item:
     - name: Core Dna
