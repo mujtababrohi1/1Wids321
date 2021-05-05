@@ -16,7 +16,7 @@ enable = false
 skillbars = []
 title = ""
 [[social]]
-icon = ""
+icon = "fa-linkedin"
 link = "https://www.linkedin.com/in/violetta-misiorek-70972126/"
 name = "Linkedin"
 
