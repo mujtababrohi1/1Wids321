@@ -72,3 +72,5 @@ fields:
     - type: text
       name: percentage
       label: percentage
+pages:
+- exampleSite/content/speaker/violetta-misiorek.md
