@@ -12,7 +12,7 @@ unsafe = true
 [[menu.main]]
 name = "Presentations"
 url = "presentations"
-weight = ""
+weight = "5"
 [[menu.main]]
 name = "Agenda"
 url = "agenda"
