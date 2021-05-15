@@ -33,7 +33,7 @@ about:
     link: https://www.widsconference.org/
 speakers:
   enable: true
-  title: Who _Speaking?_
+  title: Who _is_Speaking?_
   content: Women leaders in Data science
 tab:
   enable: false
