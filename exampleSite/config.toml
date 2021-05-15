@@ -10,21 +10,17 @@ title = "WIDS Melbourne Conference 2021"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Presentations"
-url = "presentations"
-weight = "5"
+name = "About WiDS"
+url = "about"
+weight = 2
 [[menu.main]]
 name = "Agenda"
 url = "agenda"
-weight = "4"
+weight = 4
 [[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
-[[menu.main]]
-name = "About WiDS"
-url = "about"
-weight = 2
 [[menu.main]]
 name = "Speaker"
 url = "speaker"
