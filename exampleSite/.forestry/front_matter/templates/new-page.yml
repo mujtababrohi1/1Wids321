@@ -16,11 +16,12 @@ fields:
     required: false
     options: []
     source:
-      type: simple
-      section: 
-      file: 
-      path: 
+      type: documents
+      section: speakers
+      file: exampleSite/content/speaker/speaker-8.md
+      path: skills
   label: Presentations
+  hidden: false
 pages:
 - exampleSite/content/Presentations.md
 - exampleSite/content/agenda.md
