@@ -15,5 +15,6 @@ fields:
     maxSize: 64
   label: Agenda
 pages:
+- exampleSite/content/Presentations.md
 - exampleSite/content/agenda.md
 - exampleSite/content/blog/agenda.md
