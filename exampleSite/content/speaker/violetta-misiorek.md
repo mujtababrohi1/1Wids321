@@ -2,7 +2,7 @@
 date = ""
 description = ""
 designation = "Principal Consultant, Data Science, Digital Distribution at Suncorp Group"
-image = "/images/violetta-1-537x666.jpeg"
+image = "/images/whatsapp-image-2021-05-06-at-9-24-52-am.jpeg"
 page_header_bg = ""
 title = "Violetta Misiorek"
 [personal_info]
