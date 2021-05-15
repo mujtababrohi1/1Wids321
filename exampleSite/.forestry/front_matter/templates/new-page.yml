@@ -9,32 +9,10 @@ fields:
     required: false
   label: contact
   hidden: true
-- name: presentations
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: speakers
-      file: 
-      path: ''
-  label: Presentations
-  hidden: false
-- name: videos
-  type: list
-  config:
-    use_select: true
-    min: 
-    max: 
-    source:
-      type: pages
-      section: speakers
-  label: Videos
-  showOnly:
-    field: presentations
-    value: speaker/speaker-8.md
+- name: presentation_videos
+  type: image_gallery
+  config: {}
+  label: Presentation Videos
 pages:
 - exampleSite/content/Presentations.md
 - exampleSite/content/agenda.md
