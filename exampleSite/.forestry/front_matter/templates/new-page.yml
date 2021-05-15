@@ -9,11 +9,18 @@ fields:
     required: false
   label: contact
   hidden: true
-- name: agenda
-  type: file
+- name: presentations
+  type: select
+  default: []
   config:
-    maxSize: 64
-  label: Agenda
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Presentations
 pages:
 - exampleSite/content/Presentations.md
 - exampleSite/content/agenda.md
