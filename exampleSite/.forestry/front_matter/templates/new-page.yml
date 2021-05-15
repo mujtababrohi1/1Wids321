@@ -10,4 +10,4 @@ fields:
   label: contact
   hidden: true
 pages:
-- exampleSite/content/Agenda.md
+- exampleSite/content/agenda.md
