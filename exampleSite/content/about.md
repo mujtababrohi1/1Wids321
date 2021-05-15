@@ -34,7 +34,7 @@ testimonial:
       earum voluptas delectus, labore dolor dolorem amet expedita.
 
 ---
-## About The _WIDS_
+## About _WiDS_
 
 **The Women in Data Science (WiDS) initiative aims to inspire and educate data scientists worldwide, regardless of gender, and to support women in the field. WiDS started as a one-day technical conference at Stanford in November 2015. Five years later, WiDS is a global movement that includes a number of worldwide initiatives:**
 
