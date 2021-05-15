@@ -16,7 +16,7 @@ weight = ""
 [[menu.main]]
 name = "Agenda"
 url = "agenda"
-weight = ""
+weight = "4"
 [[menu.main]]
 name = "Home"
 url = "/"
