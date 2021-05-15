@@ -11,3 +11,4 @@ fields:
   hidden: true
 pages:
 - exampleSite/content/agenda.md
+- exampleSite/content/blog/agenda.md
