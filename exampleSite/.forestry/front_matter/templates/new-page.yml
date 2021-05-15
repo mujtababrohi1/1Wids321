@@ -9,6 +9,11 @@ fields:
     required: false
   label: contact
   hidden: true
+- name: agenda
+  type: file
+  config:
+    maxSize: 64
+  label: Agenda
 pages:
 - exampleSite/content/agenda.md
 - exampleSite/content/blog/agenda.md
