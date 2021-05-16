@@ -1,10 +1,10 @@
 +++
-date = ""
+date = 2021-04-30T14:00:00Z
 description = ""
 designation = "Principal Consultant, Data Science, Digital Distribution at Suncorp Group"
 image = "/images/whatsapp-image-2021-05-06-at-9-24-52-am.jpeg"
 page_header_bg = ""
-title = "2) Violetta Misiorek"
+title = "Violetta Misiorek"
 [Presentation]
 presentation = ""
 [personal_info]
