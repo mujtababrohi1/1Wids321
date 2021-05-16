@@ -5,6 +5,8 @@ designation = "Principal Consultant, Data Science, Digital Distribution at Sunco
 image = "/images/whatsapp-image-2021-05-06-at-9-24-52-am.jpeg"
 page_header_bg = ""
 title = "Violetta Misiorek"
+[Presentation]
+presentation = ""
 [personal_info]
 bulletpoints = []
 content = ""
@@ -21,3 +23,6 @@ link = "https://www.linkedin.com/in/violetta-misiorek-70972126/"
 name = "Linkedin"
 
 +++
+## Principal Consultant, Data Science, Digital Distribution at Suncorp Group
+
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/bQjhw0_7jiQ](https://www.youtube.com/embed/bQjhw0_7jiQ "https://www.youtube.com/embed/bQjhw0_7jiQ")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
