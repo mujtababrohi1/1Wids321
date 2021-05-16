@@ -1,7 +1,7 @@
 ---
-title: 8) Atousa Ghahramani
+title: Atousa Ghahramani
 page_header_bg: images/background/page-title-bg.jpg
-date: 2020-03-14T15:40:24.000+06:00
+date: 2020-05-07T10:40:24+00:00
 designation: Vice President at Data Analytics Student Association
 image: "/images/atousa-ghahramani-800.jpg"
 description: Vice President at Data Analytics Student Association
