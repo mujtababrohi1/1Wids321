@@ -8,6 +8,9 @@ image: "/images/amanda-cole.jpeg"
 description: President at Data Analytics Student Association \ SHEQ Systems Manager
   NVC Precast
 social:
+- name: Presentation
+  icon: ''
+  link: https://vimeo.com/549602365
 - name: linkedin
   icon: fa-linkedin
   link: https://www.linkedin.com/in/amanda-cole-86b273205/
