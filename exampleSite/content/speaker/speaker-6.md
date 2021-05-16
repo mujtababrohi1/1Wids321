@@ -39,6 +39,6 @@ skills:
     percentage: 80%
 
 ---
-Vice President at Data Analytics Student Association
+## Vice President at Data Analytics Student Association
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dPZh2cvndPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
