@@ -34,8 +34,8 @@ fields:
     name: link
     label: link
 - type: field_group
-  name: personal_info
-  label: personal_info
+  name: Presentation
+  label: Presentation
   fields:
   - type: boolean
     name: enable
@@ -43,12 +43,7 @@ fields:
   - type: text
     name: title
     label: title
-  - type: textarea
-    name: content
-    label: content
-  - type: list
-    name: bulletpoints
-    label: bulletpoints
+  hidden: false
 - type: field_group
   name: skills
   label: skills
