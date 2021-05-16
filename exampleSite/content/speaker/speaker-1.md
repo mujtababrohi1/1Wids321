@@ -42,4 +42,4 @@ skills:
 ---
 ## Business Transformation Specialist| Executive Leader | Bespoke Solutions for Transformation Challenges I Digital
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/8tczOVqPc0o](https://www.youtube.com/embed/8tczOVqPc0o "https://www.youtube.com/embed/8tczOVqPc0o")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/8tczOVqPc0o?controls=0](https://www.youtube.com/embed/8tczOVqPc0o?controls=0 "https://www.youtube.com/embed/8tczOVqPc0o?controls=0")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
