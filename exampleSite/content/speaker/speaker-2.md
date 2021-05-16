@@ -42,3 +42,5 @@ skills:
 
 ---
 ## Michelle Lugton is a data science lead at Coles who works in enabling data science-driven ranging and category management. She has 8 years of experience working in the retail, entertainment, and gaming industry.
+
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/_wMKccIJv_Q](https://www.youtube.com/embed/_wMKccIJv_Q "https://www.youtube.com/embed/_wMKccIJv_Q")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
