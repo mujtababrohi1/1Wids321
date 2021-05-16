@@ -24,11 +24,12 @@ personal_info:
   - Morbi fermentum felis nec
   - Fermentum felis nec gravida tempus.
 skills:
-  enable: true
+  enable: false
   title: Personal Skills
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo
     suscipit deleniti voluptatum quos nostrum iure doloremque.
   skillbars:
+  - {}
   - name: Wordpress
     percentage: 90%
   - name: PHP
