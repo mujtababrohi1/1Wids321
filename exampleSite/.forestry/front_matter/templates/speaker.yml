@@ -37,12 +37,15 @@ fields:
   name: Presentation
   label: Presentation
   fields:
-  - type: boolean
-    name: enable
-    label: enable
-  - type: text
-    name: title
-    label: title
+  - name: presentation
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Presentation
   hidden: false
 - type: field_group
   name: skills
