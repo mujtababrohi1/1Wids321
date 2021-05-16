@@ -1,7 +1,7 @@
 ---
 title: 4) Michelle Mae (Roldan) Lugton
 page_header_bg: ''
-date: 
+date: 2021-05-03T14:00:00+00:00
 designation: Data Science Lead at Coles
 image: "/images/michelle-mae-lugton-800.jpg"
 description: Michelle Lugton is a data science lead at Coles who works in enabling
@@ -41,6 +41,6 @@ skills:
     percentage: 80%
 
 ---
-## Michelle Lugton is a data science lead at Coles who works in enabling data science-driven ranging and category management. She has 8 years of experience working in the retail, entertainment, and gaming industry.
+### Michelle Lugton is a data science lead at Coles who works in enabling data science-driven ranging and category management. She has 8 years of experience working in the retail, entertainment, and gaming industry.
 
 <iframe width="560" height="315" src="[https://www.youtube.com/embed/_wMKccIJv_Q](https://www.youtube.com/embed/_wMKccIJv_Q "https://www.youtube.com/embed/_wMKccIJv_Q")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
