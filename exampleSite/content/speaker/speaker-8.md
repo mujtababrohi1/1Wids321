@@ -9,8 +9,8 @@ description: President at Data Analytics Student Association \ SHEQ Systems Mana
   NVC Precast
 social:
 - name: Presentation
-  icon: ''
-  link: https://vimeo.com/549602365
+  icon: fa-youtube
+  link: https://youtu.be/sPg6rLn4H1s
 - name: linkedin
   icon: fa-linkedin
   link: https://www.linkedin.com/in/amanda-cole-86b273205/
