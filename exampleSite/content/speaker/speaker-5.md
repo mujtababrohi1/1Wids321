@@ -1,7 +1,7 @@
 ---
-title: 3) Kelley Lawson (Sternhagen)
+title: Kelley Lawson (Sternhagen)
 page_header_bg: images/background/page-title-bg.jpg
-date: 
+date: 2021-04-30T14:00:00+00:00
 designation: VP, eCommerce, Marketing Analytics & Strategy at Cost Plus World Market
 image: "/images/kelley-sternhagen-800.jpg"
 description: VP, eCommerce, Marketing Analytics & Strategy at Cost Plus World Market
@@ -39,6 +39,6 @@ skills:
     percentage: 80%
 
 ---
-## Insights-led marketer with deep expertise in eCommerce, performance marketing & analytics.
+### Insights-led marketer with deep expertise in eCommerce, performance marketing & analytics.
 
 <iframe width="560" height="315" src="[https://www.youtube.com/embed/oZ4-rZrxn98](https://www.youtube.com/embed/oZ4-rZrxn98 "https://www.youtube.com/embed/oZ4-rZrxn98")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
