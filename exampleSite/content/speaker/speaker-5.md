@@ -1,5 +1,5 @@
 ---
-title: Kelley Lawson (Sternhagen)
+title: 3) Kelley Lawson (Sternhagen)
 page_header_bg: images/background/page-title-bg.jpg
 date: 
 designation: VP, eCommerce, Marketing Analytics & Strategy at Cost Plus World Market
