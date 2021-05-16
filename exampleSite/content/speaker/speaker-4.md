@@ -1,7 +1,7 @@
 ---
 title: 6) Dr. Amrita Prasad
 page_header_bg: images/background/page-title-bg.jpg
-date: 
+date: 2021-05-04T14:00:00+00:00
 designation: Disruptive Technology Delivery Principal
 image: "/images/dr-amrita-prasad-800.jpg"
 description: Disruptive Technology Delivery Principal
@@ -39,6 +39,6 @@ skills:
     percentage: 80%
 
 ---
-## Disruptive Technology Delivery Principal
+### Disruptive Technology Delivery Principal
 
 <iframe width="560" height="315" src="[https://www.youtube.com/embed/KHkR2y5qIoE](https://www.youtube.com/embed/KHkR2y5qIoE "https://www.youtube.com/embed/KHkR2y5qIoE")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
