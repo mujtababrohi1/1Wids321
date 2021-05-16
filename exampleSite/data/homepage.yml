@@ -5,7 +5,7 @@ banner:
   heading_2: Melbourne WiDS Conference 2021
   content: "2021"
   timer:
-    enable: true
+    enable: false
     year: "2021"
     month: "5"
     day: "6"
