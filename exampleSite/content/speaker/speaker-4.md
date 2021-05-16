@@ -1,5 +1,5 @@
 ---
-title: 6) Dr. Amrita Prasad
+title: Dr. Amrita Prasad
 page_header_bg: images/background/page-title-bg.jpg
 date: 2021-05-04T14:00:00+00:00
 designation: Disruptive Technology Delivery Principal
