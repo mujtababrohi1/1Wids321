@@ -46,3 +46,4 @@ Presentation:
 
 ---
 ## President at Data Analytics Student Association \\ SHEQ Systems Manager NVC Precast
+https://youtu.be/sPg6rLn4H1s
