@@ -12,12 +12,9 @@ social:
   icon: fa-linkedin
   link: https://www.linkedin.com/in/amanda-cole-86b273205/
 personal_info:
-  enable: true
+  enable: false
   title: Personal Information
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi explicabo
-    suscipit deleniti voluptatum quos nostrum iure doloremque cupiditate voluptatem
-    a enim eaque quod perspiciatis repudiandae, mollitia adipisci ea, quidem eveniet
-    consequatur veniam error. Adipisci, suscipit corporis repellat, soluta vitae deserunt.
+  content: ''
   bulletpoints:
   - Morbi fermentum felis nec
   - Fermentum felis nec gravida tempus.
