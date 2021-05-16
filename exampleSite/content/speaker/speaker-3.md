@@ -1,7 +1,7 @@
 ---
 title: 1) Maria Prokofieva
 page_header_bg: images/background/page-title-bg.jpg
-date: 2020-03-14T15:40:24.000+06:00
+date: 2020-04-30T10:40:24+00:00
 designation: Senior Lecturer at Victoria Graduate School of Business
 image: "/images/me2me-800.jpg"
 description: Senior Lecturer at Victoria Graduate School of Business
