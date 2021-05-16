@@ -1,7 +1,7 @@
 ---
-title: 7) Amanda Cole
+title: Amanda Cole
 page_header_bg: images/background/page-title-bg.jpg
-date: 2020-03-14T15:40:24.000+06:00
+date: 2020-05-06T10:40:24+00:00
 designation: President at Data Analytics Student Association \   SHEQ Systems Manager
   NVC Precast
 image: "/images/amanda-cole.jpeg"
