@@ -42,6 +42,7 @@ skills:
 Presentation:
   title: Presentation
   enable: true
+  presentation: https://www.youtube.com/watch?v=sPg6rLn4H1s&t=10s
 
 ---
 ## President at Data Analytics Student Association \\ SHEQ Systems Manager NVC Precast
