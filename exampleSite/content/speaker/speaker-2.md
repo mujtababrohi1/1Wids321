@@ -1,5 +1,5 @@
 ---
-title: 4) Michelle Mae (Roldan) Lugton
+title: Michelle Mae (Roldan) Lugton
 page_header_bg: ''
 date: 2021-05-03T14:00:00+00:00
 designation: Data Science Lead at Coles
