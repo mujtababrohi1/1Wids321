@@ -39,6 +39,9 @@ skills:
     percentage: 60%
   - name: HTML
     percentage: 80%
+Presentation:
+  title: Presentation
+  enable: true
 
 ---
 ## President at Data Analytics Student Association \\ SHEQ Systems Manager NVC Precast
